@@ -1,0 +1,197 @@
+{
+    "pending": [
+      {
+        "user": "Tony Stark",
+        "riskLevel": "Low",
+        "triggerReason": "Hard Flag",
+        "dateAddedOn": "2023-11-12",
+        "previouslyReviewed": "Yes",
+        "userEmail": "ironman@Tony.com",
+        "inQueueFor": "14 days"
+      },
+      {
+        "user": "Natasha Romanoff",
+        "riskLevel": "Medium",
+        "triggerReason": "Temp Flag",
+        "dateAddedOn": "2023-11-10",
+        "previouslyReviewed": "No",
+        "userEmail": "black.widow@NR.com",
+        "inQueueFor": "13 days"
+      },
+      {
+        "user": "Bruce Banner",
+        "riskLevel": "High",
+        "triggerReason": "Restricted Unflag",
+        "dateAddedOn": "2023-11-13",
+        "previouslyReviewed": "Yes",
+        "userEmail": "bruce.banner@Hulk.com",
+        "inQueueFor": "12 days"
+      },
+      {
+        "user": "Cristiano Ronaldo",
+        "riskLevel": "Medium",
+        "triggerReason": "Un Flag",
+        "dateAddedOn": "2023-11-15",
+        "previouslyReviewed": "No",
+        "userEmail": "ronaldo.cristiano@CR7.com",
+        "inQueueFor": "11 days"
+      },
+      {
+        "user": "Lionel Messi",
+        "riskLevel": "Low",
+        "triggerReason": "Reviewed",
+        "dateAddedOn": "2023-11-13",
+        "previouslyReviewed": "Yes",
+        "userEmail": "leo.messi@ML10.com",
+        "inQueueFor": "10 days"
+      },
+      {
+        "user": "Chris Hemsworth",
+        "riskLevel": "High",
+        "triggerReason": "Hard Flag",
+        "dateAddedOn": "2023-11-10",
+        "previouslyReviewed": "No",
+        "userEmail": "chris.hemsworth@Thor.com",
+        "inQueueFor": "9 days"
+      },
+      {
+        "user": "Tom Hiddlestone",
+        "riskLevel": "Medium",
+        "triggerReason": "Temp Flag",
+        "dateAddedOn": "2023-11-18",
+        "previouslyReviewed": "Yes",
+        "userEmail": "tom.hiddlestone@Loki.com",
+        "inQueueFor": "8 days"
+      },
+      {
+        "user": "Toni Kroos",
+        "riskLevel": "Low",
+        "triggerReason": "Restricted Unflag",
+        "dateAddedOn": "2023-11-13",
+        "previouslyReviewed": "No",
+        "userEmail": "german.sniper@TN8.com",
+        "inQueueFor": "7 days"
+      },
+      {
+        "user": "Harry Kane",
+        "riskLevel": "High",
+        "triggerReason": "Un Flag",
+        "dateAddedOn": "2023-11-15",
+        "previouslyReviewed": "Yes",
+        "userEmail": "harry.kane@England.com",
+        "inQueueFor": "6 days"
+      },
+      {
+        "user": "Bruce Wayne",
+        "riskLevel": "Medium",
+        "triggerReason": "Reviewed",
+        "dateAddedOn": "2023-11-12",
+        "previouslyReviewed": "No",
+        "userEmail": "bruce.wayne@Batman.com",
+        "inQueueFor": "5 days"
+      }
+    ],
+    "completed": [
+      {
+        "user": "Cristiano Ronaldo",
+        "userEmail": "ronaldo.cristiano@CR7.com",
+        "riskLevel": "Medium",
+        "actionReason": "Un Flag",
+        "timeToClose": "3 days",
+        "dateAddedOn": "2023-11-15",
+        "actionTakenBy": "Jose",
+        "actionTakenByEmail": "jose@example.com"
+      },
+      {
+        "user": "Bruce Banner",
+        "userEmail": "bruce.banner@Hulk.com",
+        "riskLevel": "High",
+        "actionReason": "Restricted UnFlag",
+        "timeToClose": "7 days",
+        "dateAddedOn": "2023-11-13",
+        "actionTakenBy": "Steve",
+        "actionTakenByEmail": "steve@example.com"
+      },
+      {
+        "user": "Lionel Messi",
+        "userEmail": "leo.messi@ML10.com",
+        "riskLevel": "Low",
+        "actionReason": "Reviewed",
+        "timeToClose": "5 days",
+        "dateAddedOn": "2023-11-13",
+        "actionTakenBy": "Charlie",
+        "actionTakenByEmail": "charlie@example.com"
+      },
+      {
+        "user": "David Bechham",
+        "userEmail": "BendItLikeBechham@MU.com",
+        "riskLevel": "Medium",
+        "actionReason": "Un Flag",
+        "timeToClose": "2 days",
+        "dateAddedOn": "2023-11-15",
+        "actionTakenBy": "Emily",
+        "actionTakenByEmail": "emily@example.com"
+      },
+      {
+        "user": "Eva Green",
+        "userEmail": "eva.green@example.com",
+        "riskLevel": "Low",
+        "actionReason": "Reviewed",
+        "timeToClose": "4 days",
+        "dateAddedOn": "2023-11-14",
+        "actionTakenBy": "Frank",
+        "actionTakenByEmail": "frank@example.com"
+      },
+      {
+        "user": "Frank White",
+        "userEmail": "frank.white@example.com",
+        "riskLevel": "High",
+        "actionReason": "Hard Flag",
+        "timeToClose": "6 days",
+        "dateAddedOn": "2023-10-19",
+        "actionTakenBy": "Grace",
+        "actionTakenByEmail": "grace@example.com"
+      },
+      {
+        "user": "Grace Miller",
+        "userEmail": "grace.miller@example.com",
+        "riskLevel": "Medium",
+        "actionReason": "Temp Flag",
+        "timeToClose": "3 days",
+        "dateAddedOn": "2023-10-18",
+        "actionTakenBy": "Harry",
+        "actionTakenByEmail": "harry@example.com"
+      },
+      {
+        "user": "Harry Wilson",
+        "userEmail": "harry.wilson@example.com",
+        "riskLevel": "Low",
+        "actionReason": "Restricted UnFlag",
+        "timeToClose": "7 days",
+        "dateAddedOn": "2023-10-12",
+        "actionTakenBy": "Ivy",
+        "actionTakenByEmail": "ivy@example.com"
+      },
+      {
+        "user": "Ivy Turner",
+        "userEmail": "ivy.turner@example.com",
+        "riskLevel": "High",
+        "actionReason": "Un Flag",
+        "timeToClose": "5 days",
+        "dateAddedOn": "2023-10-11",
+        "actionTakenBy": "John",
+        "actionTakenByEmail": "john@example.com"
+      },
+      {
+        "user": "John Doe",
+        "userEmail": "john.doe@example.com",
+        "riskLevel": "Medium",
+        "actionReason": "Reviewed",
+        "timeToClose": "2 days",
+        "dateAddedOn": "2023-10-12",
+        "actionTakenBy": "Alice",
+        "actionTakenByEmail": "alice@example.com"
+      }
+    ]
+  }
+  
